@@ -1,0 +1,22 @@
+[
+    {
+        "frame": 0,
+        "leds_glowing": 326
+    },
+    {
+        "frame": 600,
+        "leds_glowing": 38
+    },
+    {
+        "frame": 1200,
+        "leds_glowing": 44
+    },
+    {
+        "frame": 1800,
+        "leds_glowing": 49
+    },
+    {
+        "frame": 2400,
+        "leds_glowing": 46
+    }
+]
