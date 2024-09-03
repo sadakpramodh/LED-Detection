@@ -1,0 +1,198 @@
+[
+    {
+        "frame": 0,
+        "leds_glowing": 34
+    },
+    {
+        "frame": 50,
+        "leds_glowing": 169
+    },
+    {
+        "frame": 100,
+        "leds_glowing": 129
+    },
+    {
+        "frame": 150,
+        "leds_glowing": 73
+    },
+    {
+        "frame": 200,
+        "leds_glowing": 81
+    },
+    {
+        "frame": 250,
+        "leds_glowing": 91
+    },
+    {
+        "frame": 300,
+        "leds_glowing": 34
+    },
+    {
+        "frame": 350,
+        "leds_glowing": 90
+    },
+    {
+        "frame": 400,
+        "leds_glowing": 74
+    },
+    {
+        "frame": 450,
+        "leds_glowing": 92
+    },
+    {
+        "frame": 500,
+        "leds_glowing": 71
+    },
+    {
+        "frame": 550,
+        "leds_glowing": 101
+    },
+    {
+        "frame": 600,
+        "leds_glowing": 67
+    },
+    {
+        "frame": 650,
+        "leds_glowing": 105
+    },
+    {
+        "frame": 700,
+        "leds_glowing": 103
+    },
+    {
+        "frame": 750,
+        "leds_glowing": 82
+    },
+    {
+        "frame": 800,
+        "leds_glowing": 104
+    },
+    {
+        "frame": 850,
+        "leds_glowing": 96
+    },
+    {
+        "frame": 900,
+        "leds_glowing": 100
+    },
+    {
+        "frame": 950,
+        "leds_glowing": 107
+    },
+    {
+        "frame": 1000,
+        "leds_glowing": 89
+    },
+    {
+        "frame": 1050,
+        "leds_glowing": 111
+    },
+    {
+        "frame": 1100,
+        "leds_glowing": 102
+    },
+    {
+        "frame": 1150,
+        "leds_glowing": 111
+    },
+    {
+        "frame": 1200,
+        "leds_glowing": 139
+    },
+    {
+        "frame": 1250,
+        "leds_glowing": 113
+    },
+    {
+        "frame": 1300,
+        "leds_glowing": 99
+    },
+    {
+        "frame": 1350,
+        "leds_glowing": 123
+    },
+    {
+        "frame": 1400,
+        "leds_glowing": 138
+    },
+    {
+        "frame": 1450,
+        "leds_glowing": 131
+    },
+    {
+        "frame": 1500,
+        "leds_glowing": 137
+    },
+    {
+        "frame": 1550,
+        "leds_glowing": 118
+    },
+    {
+        "frame": 1600,
+        "leds_glowing": 120
+    },
+    {
+        "frame": 1650,
+        "leds_glowing": 128
+    },
+    {
+        "frame": 1700,
+        "leds_glowing": 114
+    },
+    {
+        "frame": 1750,
+        "leds_glowing": 116
+    },
+    {
+        "frame": 1800,
+        "leds_glowing": 120
+    },
+    {
+        "frame": 1850,
+        "leds_glowing": 110
+    },
+    {
+        "frame": 1900,
+        "leds_glowing": 122
+    },
+    {
+        "frame": 1950,
+        "leds_glowing": 115
+    },
+    {
+        "frame": 2000,
+        "leds_glowing": 110
+    },
+    {
+        "frame": 2050,
+        "leds_glowing": 123
+    },
+    {
+        "frame": 2100,
+        "leds_glowing": 129
+    },
+    {
+        "frame": 2150,
+        "leds_glowing": 144
+    },
+    {
+        "frame": 2200,
+        "leds_glowing": 141
+    },
+    {
+        "frame": 2250,
+        "leds_glowing": 145
+    },
+    {
+        "frame": 2300,
+        "leds_glowing": 96
+    },
+    {
+        "frame": 2350,
+        "leds_glowing": 136
+    },
+    {
+        "frame": 2400,
+        "leds_glowing": 137
+    }
+]

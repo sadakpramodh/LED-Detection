@@ -1,0 +1,162 @@
+[
+    {
+        "frame": 0,
+        "leds_glowing": 2
+    },
+    {
+        "frame": 50,
+        "leds_glowing": 2
+    },
+    {
+        "frame": 100,
+        "leds_glowing": 2
+    },
+    {
+        "frame": 150,
+        "leds_glowing": 2
+    },
+    {
+        "frame": 200,
+        "leds_glowing": 2
+    },
+    {
+        "frame": 250,
+        "leds_glowing": 2
+    },
+    {
+        "frame": 300,
+        "leds_glowing": 2
+    },
+    {
+        "frame": 350,
+        "leds_glowing": 3
+    },
+    {
+        "frame": 400,
+        "leds_glowing": 2
+    },
+    {
+        "frame": 450,
+        "leds_glowing": 2
+    },
+    {
+        "frame": 500,
+        "leds_glowing": 2
+    },
+    {
+        "frame": 550,
+        "leds_glowing": 3
+    },
+    {
+        "frame": 600,
+        "leds_glowing": 3
+    },
+    {
+        "frame": 650,
+        "leds_glowing": 3
+    },
+    {
+        "frame": 700,
+        "leds_glowing": 3
+    },
+    {
+        "frame": 750,
+        "leds_glowing": 3
+    },
+    {
+        "frame": 800,
+        "leds_glowing": 3
+    },
+    {
+        "frame": 850,
+        "leds_glowing": 5
+    },
+    {
+        "frame": 900,
+        "leds_glowing": 3
+    },
+    {
+        "frame": 950,
+        "leds_glowing": 3
+    },
+    {
+        "frame": 1000,
+        "leds_glowing": 4
+    },
+    {
+        "frame": 1050,
+        "leds_glowing": 5
+    },
+    {
+        "frame": 1100,
+        "leds_glowing": 5
+    },
+    {
+        "frame": 1150,
+        "leds_glowing": 4
+    },
+    {
+        "frame": 1200,
+        "leds_glowing": 6
+    },
+    {
+        "frame": 1250,
+        "leds_glowing": 5
+    },
+    {
+        "frame": 1300,
+        "leds_glowing": 4
+    },
+    {
+        "frame": 1350,
+        "leds_glowing": 4
+    },
+    {
+        "frame": 1400,
+        "leds_glowing": 4
+    },
+    {
+        "frame": 1450,
+        "leds_glowing": 4
+    },
+    {
+        "frame": 1500,
+        "leds_glowing": 5
+    },
+    {
+        "frame": 1550,
+        "leds_glowing": 4
+    },
+    {
+        "frame": 1600,
+        "leds_glowing": 4
+    },
+    {
+        "frame": 1650,
+        "leds_glowing": 4
+    },
+    {
+        "frame": 1700,
+        "leds_glowing": 4
+    },
+    {
+        "frame": 1750,
+        "leds_glowing": 6
+    },
+    {
+        "frame": 1800,
+        "leds_glowing": 5
+    },
+    {
+        "frame": 1850,
+        "leds_glowing": 2
+    },
+    {
+        "frame": 1900,
+        "leds_glowing": 2
+    },
+    {
+        "frame": 1950,
+        "leds_glowing": 2
+    }
+]
